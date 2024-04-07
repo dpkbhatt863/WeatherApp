@@ -1,14 +1,12 @@
 package com.example.weatherapp
 
 import android.content.Intent
-import android.graphics.drawable.AnimatedVectorDrawable
-import android.media.Image
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.widget.ImageView
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import com.example.weatherapp.Activity.MainActivity
 
 class SplashActivity : AppCompatActivity() {
 

@@ -31,7 +31,7 @@ class ForecastAdapter: RecyclerView.Adapter<ForecastAdapter.ViewHolder>() {
         calendar.time=date
 
         val dayOfWeekName = when(calendar.get(Calendar.DAY_OF_WEEK)){
-            1-> "Sund"
+            1-> "Sun"
             2-> "Mon"
             3-> "Tue"
             4-> "Wed"
