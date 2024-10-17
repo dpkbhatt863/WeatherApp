@@ -17,6 +17,12 @@ The Weather App is a Kotlin-based application that provides real-time weather up
 - **OpenWeatherMap API**: A reliable source for accessing weather data.
 - **Android SDK**: The Android Software Development Kit for app development.
 
+## Screenshots
+
+<img width="1052" alt="screenshot-1" src="https://github.com/user-attachments/assets/698565dc-5c02-496a-a86a-2b60ed0c1dac">
+![screenshot](https://github.com/user-attachments/assets/5b987bb2-4523-4157-b101-957f24a50529)
+
+
 ## Getting Started
 
 To run the Weather App locally, follow these steps:
