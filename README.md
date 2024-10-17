@@ -31,3 +31,6 @@ To run the Weather App locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/weatherapp.git
+
+### APK Release
+If you prefer to install the app directly, you can download the APK from the GitHub Releases page.
