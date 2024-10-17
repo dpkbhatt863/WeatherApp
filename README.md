@@ -19,7 +19,7 @@ The Weather App is a Kotlin-based application that provides real-time weather up
 
 ## Screenshots
 
-<img width="1052" alt="screenshot-1" sr![screenshot1](https://github.com/user-attachments/assets/6ad0425b-accf-406e-83b6-66f5873edaef)
+![screenshot1](https://github.com/user-attachments/assets/6ad0425b-accf-406e-83b6-66f5873edaef)
 
 ![screenshot](https://github.com/user-attachments/assets/90a21f5a-fbf7-461b-8542-b0bdef0f01eb)
 
